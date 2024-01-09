@@ -1,4 +1,4 @@
-# Este é um projeto de análise exploratória simples sobre a correlação entre acidentes de veículos em Porto Alegre e a COVID-19 #
+# Este é um projeto de análise exploratória mapeando acidentes de veículos em Porto Alegre entre 2019 e 2023 #
 
 Para a criação dessa análise, utilizei o conjunto de dados abertos para registro de acidentes de trânsito no município de Porto Alegre extraídos do [site oficial dados abertos POA.](https://dadosabertos.poa.br/dataset/acidentes-de-transito-acidentes)
 
@@ -18,5 +18,5 @@ Serão utilizados as bibliotecas:
 <br>
 
 3. Matplotlib para plotagem dos dados baseado em cada ano.
-
+<br>
 Execute o código através de um editor de código notebook e acompanhe o que as funções fazem através dos comentários.
