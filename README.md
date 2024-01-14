@@ -19,4 +19,6 @@ Serão utilizados as bibliotecas:
 
 3. Matplotlib para plotagem dos dados baseado em cada ano.
 <br>
-Execute o código através de um editor de código notebook e acompanhe o que as funções fazem através dos comentários.
+
+Confira o notebook no botão abaixo e acompanhe o que as funções fazem através dos comentários.
+[![Open In Colab](https://colab.research.google.com/github/Kar-nV/Analise-exploratoria-python/blob/master/projetoanalise.ipynb)
