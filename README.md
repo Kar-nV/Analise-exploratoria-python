@@ -21,4 +21,4 @@ Serão utilizados as bibliotecas:
 <br>
 
 Confira o notebook no botão abaixo e acompanhe o que as funções fazem através dos comentários.
-[![Open In Colab](https://colab.research.google.com/github/Kar-nV/Analise-exploratoria-python/blob/master/projetoanalise.ipynb)
+[![Open In Colab]](https://colab.research.google.com/github/Kar-nV/Analise-exploratoria-python/blob/master/projetoanalise.ipynb)
